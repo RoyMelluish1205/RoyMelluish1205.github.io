@@ -2,7 +2,7 @@
 <head>
     <style>
         body {
-            background-image: linear-gradient(to bottom right, #80aaff, #286ffc);;
+            background-image: linear-gradient(to bottom right, #b0f5f3, #286ffc);;
         }
     </style>
 </head>
