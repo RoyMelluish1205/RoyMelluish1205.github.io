@@ -1,9 +1,7 @@
-# Roy Melluish
-
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h1>Hi!</h1>
+<p>My name is Roy Melluish. I'm a sophomore Computer Science major at the university of Notre Dame!</p>
 </body>
 </html>
