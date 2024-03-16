@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
 <body>
+<style>
+body {
+  background-color: #7ec2f2;
+}
+</style>
 <h1>Hello!</h1>
 <p>My name is Roy Melluish!</p>
 <h1>About Me</h1>
