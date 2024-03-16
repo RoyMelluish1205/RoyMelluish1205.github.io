@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <style>
@@ -17,5 +16,6 @@
     <a href="https://github.com/RoyMelluish1205">GitHub</a>
     <p>Phone: (269) 275-4866</p>
     <p>Email: roy.e.melluish@gmail.com</p>
+    <img src="C:\Users\royem\OneDrive\Pictures\Camera Roll\Me senior picture.jpg">
 </body>
 </html>
